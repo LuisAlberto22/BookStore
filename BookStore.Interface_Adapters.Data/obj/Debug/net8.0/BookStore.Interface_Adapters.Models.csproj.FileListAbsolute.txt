@@ -1,0 +1,12 @@
+C:\Users\Luis\source\repos\Portafolio\BookStore\BookStore.Interface_Adapters.Data\bin\Debug\net8.0\BookStore.Interface_Adapters.Models.deps.json
+C:\Users\Luis\source\repos\Portafolio\BookStore\BookStore.Interface_Adapters.Data\bin\Debug\net8.0\BookStore.Interface_Adapters.Models.dll
+C:\Users\Luis\source\repos\Portafolio\BookStore\BookStore.Interface_Adapters.Data\bin\Debug\net8.0\BookStore.Interface_Adapters.Models.pdb
+C:\Users\Luis\source\repos\Portafolio\BookStore\BookStore.Interface_Adapters.Data\obj\Debug\net8.0\BookStore.Interface_Adapters.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\source\repos\Portafolio\BookStore\BookStore.Interface_Adapters.Data\obj\Debug\net8.0\BookStore.Interface_Adapters.Models.AssemblyInfoInputs.cache
+C:\Users\Luis\source\repos\Portafolio\BookStore\BookStore.Interface_Adapters.Data\obj\Debug\net8.0\BookStore.Interface_Adapters.Models.AssemblyInfo.cs
+C:\Users\Luis\source\repos\Portafolio\BookStore\BookStore.Interface_Adapters.Data\obj\Debug\net8.0\BookStore.Interface_Adapters.Models.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\Portafolio\BookStore\BookStore.Interface_Adapters.Data\obj\Debug\net8.0\BookStore.Interface_Adapters.Models.sourcelink.json
+C:\Users\Luis\source\repos\Portafolio\BookStore\BookStore.Interface_Adapters.Data\obj\Debug\net8.0\BookStore.Interface_Adapters.Models.dll
+C:\Users\Luis\source\repos\Portafolio\BookStore\BookStore.Interface_Adapters.Data\obj\Debug\net8.0\refint\BookStore.Interface_Adapters.Models.dll
+C:\Users\Luis\source\repos\Portafolio\BookStore\BookStore.Interface_Adapters.Data\obj\Debug\net8.0\BookStore.Interface_Adapters.Models.pdb
+C:\Users\Luis\source\repos\Portafolio\BookStore\BookStore.Interface_Adapters.Data\obj\Debug\net8.0\ref\BookStore.Interface_Adapters.Models.dll

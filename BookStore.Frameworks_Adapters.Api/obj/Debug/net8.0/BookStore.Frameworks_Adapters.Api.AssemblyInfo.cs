@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookStore.Frameworks_Adapters.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bce4872e37ebe51e8461ae060230e28e21e5ebf2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a600f38ccb90ed62b4c164cdc65438d10295460e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookStore.Frameworks_Adapters.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookStore.Frameworks_Adapters.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,7 +1,44 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Luis\\source\\repos\\Portafolio\\BookStore\\BookStore\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Luis\\source\\repos\\Portafolio\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4935F5-313E-476F-923D-6F66BDA9C7C5}|BookStore.Frameworks_Adapters.Data\\BookStore.Interface_Adapters.Data.csproj|c:\\users\\luis\\source\\repos\\portafolio\\bookstore\\bookstore.frameworks_adapters.data\\configurations\\entitywritterconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4935F5-313E-476F-923D-6F66BDA9C7C5}|BookStore.Frameworks_Adapters.Data\\BookStore.Interface_Adapters.Data.csproj|solutionrelative:bookstore.frameworks_adapters.data\\configurations\\entitywritterconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7005F64-80BA-48F2-B7C6-E3A1C91E09BF}|BookStore.Interface_Adapters.Data\\BookStore.Interface_Adapters.Models.csproj|c:\\users\\luis\\source\\repos\\portafolio\\bookstore\\bookstore.interface_adapters.data\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7005F64-80BA-48F2-B7C6-E3A1C91E09BF}|BookStore.Interface_Adapters.Data\\BookStore.Interface_Adapters.Models.csproj|solutionrelative:bookstore.interface_adapters.data\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4935F5-313E-476F-923D-6F66BDA9C7C5}|BookStore.Frameworks_Adapters.Data\\BookStore.Interface_Adapters.Data.csproj|c:\\users\\luis\\source\\repos\\portafolio\\bookstore\\bookstore.frameworks_adapters.data\\configurations\\entitystatusconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4935F5-313E-476F-923D-6F66BDA9C7C5}|BookStore.Frameworks_Adapters.Data\\BookStore.Interface_Adapters.Data.csproj|solutionrelative:bookstore.frameworks_adapters.data\\configurations\\entitystatusconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4935F5-313E-476F-923D-6F66BDA9C7C5}|BookStore.Frameworks_Adapters.Data\\BookStore.Interface_Adapters.Data.csproj|c:\\users\\luis\\source\\repos\\portafolio\\bookstore\\bookstore.frameworks_adapters.data\\configurations\\entitygenreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4935F5-313E-476F-923D-6F66BDA9C7C5}|BookStore.Frameworks_Adapters.Data\\BookStore.Interface_Adapters.Data.csproj|solutionrelative:bookstore.frameworks_adapters.data\\configurations\\entitygenreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4935F5-313E-476F-923D-6F66BDA9C7C5}|BookStore.Frameworks_Adapters.Data\\BookStore.Interface_Adapters.Data.csproj|c:\\users\\luis\\source\\repos\\portafolio\\bookstore\\bookstore.frameworks_adapters.data\\configurations\\entityeditorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4935F5-313E-476F-923D-6F66BDA9C7C5}|BookStore.Frameworks_Adapters.Data\\BookStore.Interface_Adapters.Data.csproj|solutionrelative:bookstore.frameworks_adapters.data\\configurations\\entityeditorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4935F5-313E-476F-923D-6F66BDA9C7C5}|BookStore.Frameworks_Adapters.Data\\BookStore.Interface_Adapters.Data.csproj|c:\\users\\luis\\source\\repos\\portafolio\\bookstore\\bookstore.frameworks_adapters.data\\configurations\\entitybookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4935F5-313E-476F-923D-6F66BDA9C7C5}|BookStore.Frameworks_Adapters.Data\\BookStore.Interface_Adapters.Data.csproj|solutionrelative:bookstore.frameworks_adapters.data\\configurations\\entitybookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4935F5-313E-476F-923D-6F66BDA9C7C5}|BookStore.Frameworks_Adapters.Data\\BookStore.Interface_Adapters.Data.csproj|c:\\users\\luis\\source\\repos\\portafolio\\bookstore\\bookstore.frameworks_adapters.data\\configurations\\template\\entityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4935F5-313E-476F-923D-6F66BDA9C7C5}|BookStore.Frameworks_Adapters.Data\\BookStore.Interface_Adapters.Data.csproj|solutionrelative:bookstore.frameworks_adapters.data\\configurations\\template\\entityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7005F64-80BA-48F2-B7C6-E3A1C91E09BF}|BookStore.Interface_Adapters.Data\\BookStore.Interface_Adapters.Models.csproj|c:\\users\\luis\\source\\repos\\portafolio\\bookstore\\bookstore.interface_adapters.data\\models\\writter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7005F64-80BA-48F2-B7C6-E3A1C91E09BF}|BookStore.Interface_Adapters.Data\\BookStore.Interface_Adapters.Models.csproj|solutionrelative:bookstore.interface_adapters.data\\models\\writter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7005F64-80BA-48F2-B7C6-E3A1C91E09BF}|BookStore.Interface_Adapters.Data\\BookStore.Interface_Adapters.Models.csproj|c:\\users\\luis\\source\\repos\\portafolio\\bookstore\\bookstore.interface_adapters.data\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7005F64-80BA-48F2-B7C6-E3A1C91E09BF}|BookStore.Interface_Adapters.Data\\BookStore.Interface_Adapters.Models.csproj|solutionrelative:bookstore.interface_adapters.data\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,6 +83,123 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EntityWritterConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\Portafolio\\BookStore\\BookStore.Frameworks_Adapters.Data\\Configurations\\EntityWritterConfiguration.cs",
+              "RelativeDocumentMoniker": "BookStore.Frameworks_Adapters.Data\\Configurations\\EntityWritterConfiguration.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\Portafolio\\BookStore\\BookStore.Frameworks_Adapters.Data\\Configurations\\EntityWritterConfiguration.cs",
+              "RelativeToolTip": "BookStore.Frameworks_Adapters.Data\\Configurations\\EntityWritterConfiguration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBQAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T00:34:20.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntityGenreConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\Portafolio\\BookStore\\BookStore.Frameworks_Adapters.Data\\Configurations\\EntityGenreConfiguration.cs",
+              "RelativeDocumentMoniker": "BookStore.Frameworks_Adapters.Data\\Configurations\\EntityGenreConfiguration.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\Portafolio\\BookStore\\BookStore.Frameworks_Adapters.Data\\Configurations\\EntityGenreConfiguration.cs",
+              "RelativeToolTip": "BookStore.Frameworks_Adapters.Data\\Configurations\\EntityGenreConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T00:33:44.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntityEditorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\Portafolio\\BookStore\\BookStore.Frameworks_Adapters.Data\\Configurations\\EntityEditorConfiguration.cs",
+              "RelativeDocumentMoniker": "BookStore.Frameworks_Adapters.Data\\Configurations\\EntityEditorConfiguration.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\Portafolio\\BookStore\\BookStore.Frameworks_Adapters.Data\\Configurations\\EntityEditorConfiguration.cs",
+              "RelativeToolTip": "BookStore.Frameworks_Adapters.Data\\Configurations\\EntityEditorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T00:33:30.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\Portafolio\\BookStore\\BookStore.Interface_Adapters.Data\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "BookStore.Interface_Adapters.Data\\Models\\Status.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\Portafolio\\BookStore\\BookStore.Interface_Adapters.Data\\Models\\Status.cs",
+              "RelativeToolTip": "BookStore.Interface_Adapters.Data\\Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T00:31:31.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntityBookConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\Portafolio\\BookStore\\BookStore.Frameworks_Adapters.Data\\Configurations\\EntityBookConfiguration.cs",
+              "RelativeDocumentMoniker": "BookStore.Frameworks_Adapters.Data\\Configurations\\EntityBookConfiguration.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\Portafolio\\BookStore\\BookStore.Frameworks_Adapters.Data\\Configurations\\EntityBookConfiguration.cs",
+              "RelativeToolTip": "BookStore.Frameworks_Adapters.Data\\Configurations\\EntityBookConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T00:31:01.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntityStatusConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\Portafolio\\BookStore\\BookStore.Frameworks_Adapters.Data\\Configurations\\EntityStatusConfiguration.cs",
+              "RelativeDocumentMoniker": "BookStore.Frameworks_Adapters.Data\\Configurations\\EntityStatusConfiguration.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\Portafolio\\BookStore\\BookStore.Frameworks_Adapters.Data\\Configurations\\EntityStatusConfiguration.cs",
+              "RelativeToolTip": "BookStore.Frameworks_Adapters.Data\\Configurations\\EntityStatusConfiguration.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T00:25:23.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\Portafolio\\BookStore\\BookStore.Frameworks_Adapters.Data\\Configurations\\Template\\EntityConfiguration.cs",
+              "RelativeDocumentMoniker": "BookStore.Frameworks_Adapters.Data\\Configurations\\Template\\EntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\Portafolio\\BookStore\\BookStore.Frameworks_Adapters.Data\\Configurations\\Template\\EntityConfiguration.cs",
+              "RelativeToolTip": "BookStore.Frameworks_Adapters.Data\\Configurations\\Template\\EntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T00:25:21.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Writter.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\Portafolio\\BookStore\\BookStore.Interface_Adapters.Data\\Models\\Writter.cs",
+              "RelativeDocumentMoniker": "BookStore.Interface_Adapters.Data\\Models\\Writter.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\Portafolio\\BookStore\\BookStore.Interface_Adapters.Data\\Models\\Writter.cs",
+              "RelativeToolTip": "BookStore.Interface_Adapters.Data\\Models\\Writter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T00:25:13.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\Portafolio\\BookStore\\BookStore.Interface_Adapters.Data\\Models\\Model.cs",
+              "RelativeDocumentMoniker": "BookStore.Interface_Adapters.Data\\Models\\Model.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\Portafolio\\BookStore\\BookStore.Interface_Adapters.Data\\Models\\Model.cs",
+              "RelativeToolTip": "BookStore.Interface_Adapters.Data\\Models\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T00:25:12.531Z",
+              "EditorCaption": ""
             }
           ]
         }
